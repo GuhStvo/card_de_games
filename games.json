@@ -1,0 +1,46 @@
+[
+    {
+        "nome": "Battlefield 4™ Premium Edition",
+        "imagem": "img/bf4.png" 
+    },
+    {
+        "nome": "Call of Duty®: Black Ops II",
+        "imagem": "img/Black_ops_2_cover.png"
+    },
+    {
+        "nome": "Cyberpunk 2077",
+        "imagem": "img/cyberpunk2077.png"
+    },
+    {
+        "nome": "Diablo® IV",
+        "imagem": "img/diablo4.png"
+    },
+    {
+        "nome": "EA SPORTS FC™ 24",
+        "imagem": "img/fifa24.png"
+    },
+    {
+        "nome": "Senua’s Saga: Hellblade II",
+        "imagem": "img/hellblade2.png"
+    },
+    {
+        "nome": "Left 4 Dead 2",
+        "imagem": "img/Left4Dead2.png"
+    },
+    {
+        "nome": "Minecraft",
+        "imagem": "img/minecraft.png"
+    },
+    {
+        "nome": "Tom Clancy's Rainbow Six® Siege",
+        "imagem": "img/r6.png"
+    },
+    {
+        "nome": "Red Dead Redemption 2",
+        "imagem": "img/rdn2.png"
+    },
+    {
+        "nome": "Grand Theft Auto VI",
+        "imagem": "img/gta6.png"
+    }
+]
