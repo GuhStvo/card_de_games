@@ -42,5 +42,9 @@
     {
         "nome": "Grand Theft Auto VI",
         "imagem": "img/gta6.png"
+    },
+    {
+        "nome": "Call of Duty®: Black Ops 6 - Pacote Multigeração",
+        "imagem": "img/bo6.jpg"
     }
 ]
